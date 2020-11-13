@@ -1,0 +1,17 @@
+{
+    "name": "kchechlinski/part2",
+    "type": "project",
+    "authors": [
+        {
+            "name": "kchechlinski",
+            "email": "k.chechlinski@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Model\\": "Model/",
+            "Service\\": "Service/"
+        }
+    }
+}
